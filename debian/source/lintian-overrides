@@ -1,0 +1,4 @@
+python-jmespath source: file-without-copyright-information
+python-jmespath source: no-debian-changes
+python-jmespath source: source-contains-prebuilt-windows-binary
+python-jmespath source: source-package-encodes-python-version
